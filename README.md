@@ -1,4 +1,4 @@
-# homework5
+
 flowchart TD
     A["int main()"] --> B["double x, a, b, F;<br/>double pi = 3.1415926535;"]
     B --> C["scanf(&quot;%lf&quot;, &amp;x);"]
